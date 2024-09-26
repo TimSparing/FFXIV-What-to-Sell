@@ -37,5 +37,5 @@ Checks the selling prices for all selected items in the homeworld or additional 
 
 # Disclaimer
 This code is just written for fun to solidify some knowledge and improve my coding
-I can't guarantee that it is well written, the science checks out or that it is competent in any other way
+I can't guarantee that it is well written, the science checks out or that it is competent in any other way.
 Please let me know if you find any issues though

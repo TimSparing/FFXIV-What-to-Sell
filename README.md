@@ -1,2 +1,4 @@
 # FFXIV-What-to-Sell
-A code that utilizes universalis market board to help you choose what to craft/flip and where buy/sell
+This code is meant to help players make Gil by looking at data from the universalis market board.
+
+## For Crafters
